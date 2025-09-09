@@ -1,0 +1,2 @@
+Closed-form theta: 3.105201, 3.984386
+GD final theta:     3.105201, 3.984386
