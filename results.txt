@@ -1,2 +1,5 @@
-Closed-form theta: 3.105201, 3.984386
-GD final theta:     3.105201, 3.984386
+Closed-form Solution:
+Intercept: 3.1643, Slope: 3.9626
+
+Gradient Descent Solution:
+Intercept: 3.1643, Slope: 3.9626
